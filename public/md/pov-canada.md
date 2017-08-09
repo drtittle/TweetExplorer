@@ -1,0 +1,3 @@
+#Cloud In Canada
+
+Cloud can be used in a variety of industries in Canada's market sector. In the retail industry, cloud computing can empower retailers to address their greatest opportunities and challenges. Retailers can use cloud to meet changing customer expectations- for access to digital channels, contextual relations, and consistent digital and physical shopping experiences. New shopping technologies such as mobile capabilities, smart sensors, and social networks allow customers to pay for products on their mobile phones and achieve perfect price visibility. Overall, cloud can help retailers redefine and personalize customer relationships, transform and optimize operations, and create more efficient merchandising and supply networks.

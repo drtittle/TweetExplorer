@@ -1,0 +1,17 @@
+#	Distribution
+Cloud in Travel and Transportation
+Travel and transportation companies face many challenges. Economic fluctuations limit demand in some regions, while predicting demand to better align capacity is difficult. Empowered customers are demanding more information and choices, while a proliferation of sales channels has led to a loss of market-making power. Fixed costs for assets and fuel prices have escalated over time.
+As a result, T&T operators are focused on enhancing their services to improve the customer experience, grow share and increase revenue. As always, operational efficiency must be improved along with maximizing the availability of assets and infrastructure. To this end, enterprise processes are being reinvented to help improve business agility and to enable new growth strategies. Many are finding that cloud is a key enabler of these changes.
+On average, T&T companies spend 70 percent of their IT budgets maintaining current infrastructure and only 30 percent adding new capabilities. But CFO.com found that 90 percent of survey respondents agreed that better use of IT would meaningfully improve business performance at their companies. And 84 percent saw it as necessary for staying competitive.
+IBM’s own research - involving more than 800 cloud decision makers and users – shows that cloud can deliver more than just efficiency. One in five of the organizations surveyed are “pacesetters” who are using cloud to gain competitive advantage - through strategic business reinvention, better decisions and deeper collaboration. These same pacesetters enjoyed nearly twice the rate of revenue growth over a 3-year period. 
+To support such efforts, T&T companies are exploring new IT models, including cloud. Cloud is both a driver of changes in the marketplace and a central feature of the industry’s response to those changes. Rapid adoption of mobile technology, the explosion of social media, growth in “big data” and advanced analytics, and the globalization of value chains are trends directly enabled by cloud. However, two primary factors have slowed adoption: perceived security risks, and questions about system performance and availability. Those issues can now be addressed with confidence.
+T&T companies are implementing cloud services to enable new business strategies, speed the delivery of new products and services, and reinvent customer relationships. Airlines are using web analytics in the cloud to provide insights into online customer behavior, enabling data-driven marketing decisions. Online Travel Agents are using cloud to increase their transaction handling capacity and eliminate performance issues during peak seasons. Freight carriers and airports are reducing asset downtime and associated risks using cloud-based solutions. Travel and Transportation companies are entrusting cloud to deliver services throughout their businesses.
+
+Forward-looking travel and transportation companies are looking to cloud to:
+•	Increase the agility and productivity of IT systems while reducing cost.
+•	Enable innovative ways to deliver services to customers through social, mobile and analytics.
+•	Deliver deep, actionable insights to help drive improved business outcomes.
+
+Keywords: T&T, IT Budget, Travel Technology, Delivery Services
+
+For More Info: [Click Here](https://w3-connections.ibm.com/wikis/home?lang=en-us#!/wiki/Industry%20Cloud%20Points%20of%20View/page/Distribution%20Sector%20-%20Industry%20Cloud%20POVs)
